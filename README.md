@@ -1,2 +1,0 @@
-# node
-Just Learning Node
